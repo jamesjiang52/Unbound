@@ -1,6 +1,6 @@
 # Unbound
 
-Note that this is a very much a **work in progress**. A semi-playable build is projected to be completed in early-to-mid April.
+Note that this is a very much a **work in progress**. <del>A semi-playable build is projected to be completed in early-to-mid April.</del> As of May 2018, this project is no longer being worked on.
 
 This is my attempt to create a simplified, isometric version of Bethesda's popular RPG 
 [_The Elder Scrolls V: Skyrim_](https://elderscrolls.bethesda.net/en/skyrim), using the [Unity](https://unity3d.com/) 
